@@ -53,7 +53,7 @@ namespace Tarea_1_INA
                 LblName.Text = $"Pedro en posicion {index}";
             }
             Console.WriteLine();
-            Console.WriteLine("------------------");
+            Console.WriteLine("--------------------");
             Console.WriteLine("4. Numeros: ");
             numeros = new int[] { 50, 40, 30, 20, 10 };
             foreach (int i in numeros)
